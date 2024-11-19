@@ -1,0 +1,12 @@
+{
+  "name": "dictionary-proxy",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "unblocker": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+} 
